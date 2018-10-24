@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iwebdev.jpg
+img: webdev.jpg
 category: Services
 title: Death to the Stock Photo:<br>Special Thanks
 description: |
