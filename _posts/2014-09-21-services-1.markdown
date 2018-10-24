@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: iwebdev.jpg
 category: Services
 title: Death to the Stock Photo:<br>Special Thanks
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo tortor, volutpat quis eros vel, dignissim tristique dui. Duis sodales tortor eget nibh mollis, ut sagittis nulla scelerisque. Suspendisse ullamcorper aliquet leo sodales consectetur. In eget metus quis lorem sagittis interdum nec eu nulla. In pharetra lectus purus, a volutpat elit consectetur non. Duis ut dapibus quam, sit amet porta ligula. Duis a nibh enim. Quisque sagittis dolor et metus aliquet, nec feugiat nisl tristique. Maecenas sodales magna orci, vitae bibendum quam pharetra vel. Integer dapibus mauris nisi. Suspendisse nunc lorem, aliquam at neque in, ullamcorper mattis enim. Suspendisse non leo rutrum ante commodo tincidunt in et risus.
+
